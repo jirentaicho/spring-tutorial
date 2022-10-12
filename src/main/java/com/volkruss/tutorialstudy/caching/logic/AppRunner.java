@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Component
+// @Component
 public class AppRunner implements CommandLineRunner {
 
     private static final Logger logger = LoggerFactory.getLogger(AppRunner.class);
